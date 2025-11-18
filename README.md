@@ -2,6 +2,7 @@
 EXPT NO: 3 STAIR CASE WIRING 
 
 Name: JANANI S
+
 Register no: 212224040127
 
  
@@ -43,11 +44,12 @@ switch2.
 
 ![WhatsApp Image 2025-11-18 at 21 20 50_9bae4111](https://github.com/user-attachments/assets/3716e04b-7e6e-477d-8fcb-f288427a03e4)
 
-![WhatsApp Image 2025-11-18 at 21 20 50_9bae4111](https://github.com/user-attachments/assets/b2636449-018f-426d-b5d1-996c54379640)
+![WhatsApp Image 2025-11-18 at 21 20 51_1d8acbbf](https://github.com/user-attachments/assets/2c6c0827-4e8f-427f-97eb-53d171af7def)
 
-![WhatsApp Image 2025-11-18 at 21 20 50_9bae4111](https://github.com/user-attachments/assets/1812c64a-10f8-4c1d-8e81-e64eeaa288bb)
+![WhatsApp Image 2025-11-18 at 21 20 52_83a367c0](https://github.com/user-attachments/assets/3725695a-0bc9-49c2-8459-74880cf56ea3)
 
-![WhatsApp Image 2025-11-18 at 21 20 50_9bae4111](https://github.com/user-attachments/assets/cd28f8f1-483a-4585-a364-c285a4edef46)
+![WhatsApp Image 2025-11-18 at 21 20 52_8866a723](https://github.com/user-attachments/assets/8edd0c3d-aa81-46d5-9948-2836770d04d3)
+
 
 
 Direct connection: CIRCUIT DIAGRAM: 
