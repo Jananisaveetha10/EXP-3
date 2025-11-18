@@ -1,5 +1,8 @@
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
+EXPT NO: 3 STAIR CASE WIRING 
+
+Name: JANANI S
+Register no: 212224040127
 
  
 AIM
@@ -38,13 +41,27 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
+![WhatsApp Image 2025-11-18 at 21 20 50_9bae4111](https://github.com/user-attachments/assets/3716e04b-7e6e-477d-8fcb-f288427a03e4)
+
+![WhatsApp Image 2025-11-18 at 21 20 50_9bae4111](https://github.com/user-attachments/assets/b2636449-018f-426d-b5d1-996c54379640)
+
+![WhatsApp Image 2025-11-18 at 21 20 50_9bae4111](https://github.com/user-attachments/assets/1812c64a-10f8-4c1d-8e81-e64eeaa288bb)
+
+![WhatsApp Image 2025-11-18 at 21 20 50_9bae4111](https://github.com/user-attachments/assets/cd28f8f1-483a-4585-a364-c285a4edef46)
+
 
 Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
+
+<img width="821" height="562" alt="Screenshot 2025-11-18 212456" src="https://github.com/user-attachments/assets/e5d56041-2a30-4b0e-a139-375544d3cf05" />
+
 	
 Cross connection: CIRCUIT DIAGRAM:
 
 Tabulation:2
+
+<img width="812" height="593" alt="Screenshot 2025-11-18 212542" src="https://github.com/user-attachments/assets/b402c53e-d71d-4547-87e2-097b94f19a6a" />
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
